@@ -1,0 +1,155 @@
+Combate entre Jugador 1 y Jugador 2
+Combate entre Elara y Aragon
+Elara ataca a Aragon causando 24 de daño
+Salud de Aragon: 76
+Aragon ataca a Elara causando 50 de daño
+Salud de Elara: 50
+Elara ataca a Aragon causando 45 de daño
+Salud de Aragon: 32
+Aragon ataca a Elara causando 17 de daño
+Salud de Elara: 33
+Elara ataca a Aragon causando 20 de daño
+Salud de Aragon: 13
+Aragon ataca a Elara causando 65 de daño
+Salud de Elara: 0
+Elara ha sido derrotado!
+Combate entre Thaelar y Aragon
+Thaelar ataca a Aragon causando 25 de daño
+Salud de Aragon: 0
+Aragon ha sido derrotado!
+Combate entre Thaelar y Thaelar
+Thaelar ataca a Thaelar causando 12 de daño
+Salud de Thaelar: 89
+Thaelar ataca a Thaelar causando 171 de daño
+Salud de Thaelar: 0
+Thaelar ha sido derrotado!
+Combate entre Gimli y Thaelar
+Gimli ataca a Thaelar causando 1 de daño
+Salud de Thaelar: 88
+Thaelar ataca a Gimli causando 38 de daño
+Salud de Gimli: 63
+Gimli ataca a Thaelar causando 56 de daño
+Salud de Thaelar: 33
+Thaelar ataca a Gimli causando 43 de daño
+Salud de Gimli: 21
+Gimli ataca a Thaelar causando 17 de daño
+Salud de Thaelar: 17
+Thaelar ataca a Gimli causando 61 de daño
+Salud de Gimli: 0
+Gimli ha sido derrotado!
+El ganador es Jugador 2!
+¡Eres el Rey de Reyes!
+Personajes sobrevivientes de Jugador 2:
+- Elowen (Ojo de Águila) - Salud: 100
+- Thaelar (Colmillo de Acero) - Salud: 17
+
+Combate entre Jugador 1 y Jugador 2
+Combate entre Faelar y Durgash
+Durgash ataca a Faelar causando 65 de daño
+Salud de Faelar: 35
+Faelar ataca a Durgash causando 45 de daño
+Salud de Durgash: 55
+Durgash ataca a Faelar causando 24 de daño
+Salud de Faelar: 12
+Faelar ataca a Durgash causando 36 de daño
+Salud de Durgash: 20
+Durgash ataca a Faelar causando 97 de daño
+Salud de Faelar: 0
+Faelar ha sido derrotado!
+Combate entre Frodo y Frodo
+Frodo ataca a Frodo causando 27 de daño
+Salud de Frodo: 73
+Frodo ataca a Frodo causando 27 de daño
+Salud de Frodo: 74
+Frodo ataca a Frodo causando 65 de daño
+Salud de Frodo: 9
+Frodo ataca a Frodo causando 96 de daño
+Salud de Frodo: 0
+Frodo ha sido derrotado!
+Combate entre Frodo y Gandalf
+Frodo ataca a Gandalf causando 15 de daño
+Salud de Gandalf: 85
+Gandalf ataca a Frodo causando 11 de daño
+Salud de Frodo: 0
+Frodo ha sido derrotado!
+Combate entre Aldric y Durgash
+Durgash ataca a Aldric causando 11 de daño
+Salud de Aldric: 90
+Aldric ataca a Durgash causando 12 de daño
+Salud de Durgash: 8
+Durgash ataca a Aldric causando 178 de daño
+Salud de Aldric: 0
+Aldric ha sido derrotado!
+El ganador es Jugador 2!
+¡Eres el Rey de Reyes!
+Personajes sobrevivientes de Jugador 2:
+- Gandalf (Escudo Inquebrantable) - Salud: 85
+- Durgash (Ojo de Águila) - Salud: 0
+
+Combate entre Jugador 1 y Jugador 2
+Combate entre Thaelar y Rowan
+Thaelar ataca a Rowan causando 25 de daño
+Salud de Rowan: 75
+Rowan ataca a Thaelar causando 21 de daño
+Salud de Thaelar: 80
+Thaelar ataca a Rowan causando 37 de daño
+Salud de Rowan: 39
+Rowan ataca a Thaelar causando 34 de daño
+Salud de Thaelar: 47
+Thaelar ataca a Rowan causando 32 de daño
+Salud de Rowan: 8
+Rowan ataca a Thaelar causando 39 de daño
+Salud de Thaelar: 8
+Thaelar ataca a Rowan causando 89 de daño
+Salud de Rowan: 0
+Rowan ha sido derrotado!
+Combate entre Boromir y Grommash
+Boromir ataca a Grommash causando 4 de daño
+Salud de Grommash: 97
+Grommash ataca a Boromir causando 6 de daño
+Salud de Boromir: 94
+Boromir ataca a Grommash causando 49 de daño
+Salud de Grommash: 49
+Grommash ataca a Boromir causando 34 de daño
+Salud de Boromir: 61
+Boromir ataca a Grommash causando 38 de daño
+Salud de Grommash: 12
+Grommash ataca a Boromir causando 0 de daño
+Salud de Boromir: 61
+Boromir ataca a Grommash causando 14 de daño
+Salud de Grommash: 0
+Grommash ha sido derrotado!
+Combate entre Thaelar y Aldric
+Aldric ataca a Thaelar causando 59 de daño
+Salud de Thaelar: 0
+Thaelar ha sido derrotado!
+Combate entre Cedric y Aldric
+Cedric ataca a Aldric causando 5 de daño
+Salud de Aldric: 86
+Aldric ataca a Cedric causando 24 de daño
+Salud de Cedric: 76
+Cedric ataca a Aldric causando 7 de daño
+Salud de Aldric: 80
+Aldric ataca a Cedric causando 22 de daño
+Salud de Cedric: 54
+Cedric ataca a Aldric causando 3 de daño
+Salud de Aldric: 78
+Aldric ataca a Cedric causando 12 de daño
+Salud de Cedric: 42
+Cedric ataca a Aldric causando 12 de daño
+Salud de Aldric: 66
+Aldric ataca a Cedric causando 25 de daño
+Salud de Cedric: 18
+Cedric ataca a Aldric causando 39 de daño
+Salud de Aldric: 28
+Aldric ataca a Cedric causando 9 de daño
+Salud de Cedric: 10
+Cedric ataca a Aldric causando 44 de daño
+Salud de Aldric: 0
+Aldric ha sido derrotado!
+El ganador es Jugador 1!
+¡Eres el Rey de Reyes!
+Personajes sobrevivientes de Jugador 1:
+- Cedric (Colmillo de Acero) - Salud: 10
+- Boromir (Susurro Nocturno) - Salud: 51
+
